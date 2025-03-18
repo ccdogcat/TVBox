@@ -159,8 +159,6 @@ HongKong,#genre#,http://epg.51zmt.top:8000/api/diyp
 凤凰中文,http://115.149.139.141:10000/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
 凤凰资讯,http://122.117.71.103:8573/http/61.222.53.250:8078/hls/20/80/phoenixif.m3u8
 凤凰资讯,http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv
-凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
-凤凰资讯,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一凤凰资讯
 凤凰资讯,http://218.202.220.2:5000/nn_live.ts?id=FHZX
 凤凰资讯,http://76.5432123.xyz/fh.php?id=fhzx
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
