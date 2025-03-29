@@ -53,7 +53,7 @@ CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/1.m3u8
 兵团卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226439/1.m3u8
 内蒙卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225634/1.m3u8
 西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225638/1.m3u8
-辽宁卫视 – 高清,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225619/1.m3u8
+辽宁卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225619/1.m3u8
 吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226397/1.m3u8
 延边卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226516/1.m3u8
 龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226327/1.m3u8
