@@ -163,6 +163,9 @@ CCTV14,http://60.29.124.66:6080/hls/25/index.m3u8$天津联通酒店
 CCTV15,http://60.29.124.66:6080/hls/26/index.m3u8$天津联通酒店
 
 🐼地方卫视,#genre#
+凤凰中文,http://ali.hlspull.yximgs.com/live/qwt_fhzw.flv
+凤凰资讯,http://ali.hlspull.yximgs.com/live/qwt_fhzx.flv
+凤凰香港,http://ali.hlspull.yximgs.com/live/qwt_fhhk.flv
 
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 江苏卫视,http://106.53.99.30/dl/jstv.php?id=jsws
