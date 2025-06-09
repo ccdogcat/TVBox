@@ -1596,3 +1596,265 @@ CCTV13,http://8.138.7.223/tv/ptbtv.php?id=28
 四川卫视,http://goo.bkpcp.top/mg/scws$咪咕源
 西藏卫视,http://goo.bkpcp.top/mg/xzws$咪咕源
 新疆卫视,http://goo.bkpcp.top/mg/xjws$咪咕源
+
+广东频道,#genre#
+广东体育,https://cdn2.163189.xyz/live/gdty/stream.m3u8
+广东体育,https://cdn2.132.us.kg/live/gdty/stream.m3u8
+广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
+广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
+广东体育,http://218.13.167.110:9901/tsfile/live/1001_1.m3u8
+广东体育,http://plex.cyruslee.top:8888/udp/239.77.0.112:5146
+广东体育,http://119.32.12.17:2901/udp/224.1.100.34:11111
+
+广东卫视,http://qwt.zhibotv.top:2016/全网通.php?id=广东卫视
+广东卫视,http://182.254.225.1/zm/akmg.php?id=gdws
+广东卫视,http://zqh2333.top:2222/rtp/239.93.24.181:5140
+广东卫视,http://222.134.245.16:9901/tsfile/live/0125_1.m3u8
+广东卫视,http://39.165.196.149:9003//hls/38/index.m3u8
+
+
+深圳卫视,http://qwt.zhibotv.top:2016/全网通.php?id=深圳卫视
+深圳卫视,http://39.165.196.149:9003//hls/33/index.m3u8
+
+深圳都市频道,http://livepull-tcms.sztv.com.cn/live/dslive.m3u8
+
+广东影视,http://218.13.167.110:9901/tsfile/live/1002_1.m3u8
+
+广东珠江,https://cdn2.163189.xyz/live/gdzj/stream.m3u8
+广东珠江,https://cdn2.132.us.kg/live/gdzj/stream.m3u8
+广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
+广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
+广东珠江,http://218.13.167.110:9901/tsfile/live/1003_1.m3u8
+
+广东经济科教,https://pili-live-hls.kingsmedia.cn/metoo-live/c40c8d3679704d729f3254ca2b98abfe.m3u8
+
+珠海电视台,http://publive.zhrct.com/zhtv1/zhtv1.m3u8?auth_key=1697183630-0-0-237458bc86c8bc697f92b9525a090953
+
+大湾区卫视,http://ali.hlspull.yximgs.com/live/b027460e580a463cb7e44eebexcvhnddggdfsdg.flv
+大湾区卫视,http://z.b.bkpcp.top/m.php?id=dwqws
+
+广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=a4d04c27d0d1d8b7efef2ed7ff1c3eae&txTime=191b60cc9ca
+
+广州南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
+广州南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a264e4dd66b8d&txTime=191b60b41a7
+
+广州影视,http://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=1bd3a1082ab5b89f48c1bff9a3760da4&txTime=18d57929bd4
+广州影视,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=2b09d952702fe2c67ddad695faa4c27c&txTime=191b5db5ed0
+
+广州法治,http://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=3e84cd8eba844b5dc2150612295c7a52&txTime=18d578f4493
+广州法治,https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=4400d75d2114b2db07d86eda8f8218ee&txTime=191b60ce0f6
+
+广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
+广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=dce137597806f62ae6fdfc40328a336e&txTime=191b5fc1c86
+广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
+
+广州新闻,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
+广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=520177bc9dd6916a7d6fa86bdb3f8830&txTime=191b5f5b230
+
+河源公共频道,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+
+河源综合频道,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+
+东莞一台,http://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8
+东莞二台,https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8
+汕头综合,http://tv.zzlag.top:9003/hls/3/index.m3u8
+湛江公共,https://gbtv-hls-wjq.zjwtv.com/zjtv/ggpd.m3u8
+湛江公共,http://gbtv-hls-wjq.zjwtv.com/zjtv/ggpd.m3u8
+湛江新闻,http://gbtv-hls-wjq.zjwtv.com/zjtv/zhpd.m3u8
+湛江新闻,https://gbtv-hls-wjq.zjwtv.com/zjtv/zhpd.m3u8
+番禺电视台,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
+
+港澳闽、外,#genre#
+TVB翡翠4K,http://cdn.163189.xyz/live/fct4k/stream.m3u8
+TVB翡翠4K,http://cdn.132.us.kg/live/fct4k/stream.m3u8
+TVB翡翠,http://qwt.zhibotv.top:2016/全网通.php?id=翡翠台
+TVB翡翠,http://mytv.cdn.com.mp/hls/fct/playlist.m3u8
+TVB翡翠,https://cdn3.163189.xyz/live/fct/stream.m3u8
+TVB翡翠,http://cdn3.132.us.kg/live/fct/stream.m3u8
+TVB翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+TVB无线新闻台,http://qwt.zhibotv.top:2016/全网通.php?id=无线新闻台
+TVB无线新闻台,http://ali.hlspull.yximgs.com/live/tvb_inews_h264.flv
+TVB无线新闻台,http://cdn3.132.us.kg/live/wxxw/stream.m3u8
+TVB Plus,https://cdn.163189.xyz/live/tvbp/stream.m3u8
+TVB Plus,http://cdn.132.us.kg/live/tvbp/stream.m3u8
+TVB明珠台,http://cdn5.132.us.kg/live/mzt/stream.m3u8
+TVB明珠台,http://cdn5.zone.id/live/mzt/stream.m3u8
+TVB明珠台,http://36.36.200.198:44330/tsfile/live/1009_1.m3u8
+RHK31,http://cdn5.132.us.kg/live/rthk31/stream.m3u8
+RHK32,http://cdn5.132.us.kg/live/rthk32/stream.m3u8
+HOY77,http://cdn3.163189.xyz/live/hoy/stream.m3u8
+HOY77,https://cdn.163189.xyz/live/hoy/stream.m3u8
+HOY77,http://ali.hlspull.yximgs.com/live/awei_hoy77.flv
+HOY78,http://ali.hlspull.yximgs.com/live/awei_hoy78.flv
+TVB J1(北美),https://cdn3.163189.xyz/live/j1/stream.m3u8
+TVB J1(北美),http://cdn3.132.us.kg/live/j1/stream.m3u8
+ViuTV,https://cdn5.163189.xyz/live/viu/stream.m3u8
+
+东森新闻,https://gdfire2.67890123.cn:8088/live/dsxw01.m3u8
+中天新闻,https://gdfire2.67890123.cn:8088/live/ztxw01.m3u8
+寰宇新闻,https://gdfire2.67890123.cn:8088/live/hyxw01.m3u8
+中天新闻,http://qwt.zhibotv.top:2016/全网通.php?id=中天新闻
+寰宇新闻,http://qwt.zhibotv.top:2016/全网通.php?id=寰宇新闻
+台视新闻,https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
+
+凤凰中文高码,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰中文台
+凤凰中文高码,https://cdn.163189.xyz/live/fhzw/stream.m3u8
+凤凰中文高码,http://cdn.132.us.kg/live/fhzw/stream.m3u8
+凤凰资讯,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰资讯台
+凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
+凤凰资讯,https://cdn6.163189.xyz/live/fhzx/stream.m3u8
+凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
+凤凰香港高码,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰香港台
+凤凰香港高码,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
+凤凰香港高码,http://cdn3.132.us.kg/live/fhhk/stream.m3u8
+
+澳视澳门,http://cdn.163189.xyz/live/asam/stream.m3u8
+澳视澳门,http://cdn.132.us.kg/live/asam/stream.m3u8
+新加坡CHU,https://cdn6.163189.xyz/live/chu/stream.m3u8
+新加坡CH5,https://cdn6.163189.xyz/live/ch5/stream.m3u8
+新加坡CH8,https://cdn6.163189.xyz/live/ch8/stream.m3u8
+新加坡CHU,https://cdn6.132.us.kg/live/chu/stream.m3u8
+新加坡CH5,https://cdn6.132.us.kg/live/ch5/stream.m3u8
+新加坡CH8,https://cdn6.132.us.kg/live/ch8/stream.m3u8
+八度空间,https://cdn6.163189.xyz/live/8tv/stream.m3u8
+八度空间,https://cdn6.132.us.kg/live/8tv/stream.m3u8
+
+🎥赛事咪咕,#genre#
+赛事睛彩竞技,http://aiony.top:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
+赛事睛彩竞技,http://aiony.top:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive
+赛事睛彩篮球,http://aiony.top:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
+赛事睛彩篮球,http://aiony.top:35455/itv/3000000020000011531.m3u8?cdn=FifastbLive
+赛事咪咕播01,http://aiony.top:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
+赛事咪咕播02,http://aiony.top:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
+赛事咪咕播03,http://aiony.top:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive
+赛事咪咕播04,http://aiony.top:35455/itv/3000000001000008001.m3u8?cdn=FifastbLive
+赛事咪咕播05,http://aiony.top:35455/itv/3000000001000008176.m3u8?cdn=FifastbLive
+赛事咪咕播06,http://aiony.top:35455/itv/3000000001000008379.m3u8?cdn=FifastbLive
+赛事咪咕播07,http://aiony.top:35455/itv/3000000001000010129.m3u8?cdn=FifastbLive
+赛事咪咕播08,http://aiony.top:35455/itv/3000000001000010948.m3u8?cdn=FifastbLive
+赛事咪咕播09,http://aiony.top:35455/itv/3000000001000026778.m3u8?cdn=FifastbLive
+赛事咪咕播10,http://aiony.top:35455/itv/3000000001000028638.m3u8?cdn=FifastbLive
+赛事咪咕播11,http://aiony.top:35455/itv/3000000001000031494.m3u8?cdn=FifastbLive
+赛事咪咕播12,http://aiony.top:35455/itv/3000000010000000097.m3u8?cdn=FifastbLive
+赛事咪咕播13,http://aiony.top:35455/itv/3000000010000002019.m3u8?cdn=FifastbLive
+赛事咪咕播14,http://aiony.top:35455/itv/3000000010000002032.m3u8?cdn=FifastbLive
+赛事咪咕播15,http://aiony.top:35455/itv/3000000010000002809.m3u8?cdn=FifastbLive
+赛事咪咕播16,http://aiony.top:35455/itv/3000000010000003915.m3u8?cdn=FifastbLive
+赛事咪咕播17,http://aiony.top:35455/itv/3000000010000004193.m3u8?cdn=FifastbLive
+赛事咪咕播18,http://aiony.top:35455/itv/3000000010000004464.m3u8?cdn=FifastbLive
+赛事咪咕播19,http://aiony.top:35455/itv/3000000010000005837.m3u8?cdn=FifastbLive
+赛事咪咕播20,http://aiony.top:35455/itv/3000000010000006077.m3u8?cdn=FifastbLive
+赛事咪咕播21,http://aiony.top:35455/itv/3000000010000006658.m3u8?cdn=FifastbLive
+赛事咪咕播22,http://aiony.top:35455/itv/3000000010000006944.m3u8?cdn=FifastbLive
+赛事咪咕播23,http://aiony.top:35455/itv/3000000010000007692.m3u8?cdn=FifastbLive
+赛事咪咕播24,http://aiony.top:35455/itv/3000000010000009788.m3u8?cdn=FifastbLive
+赛事咪咕播25,http://aiony.top:35455/itv/3000000010000010833.m3u8?cdn=FifastbLive
+赛事咪咕播26,http://aiony.top:35455/itv/3000000010000011112.m3u8?cdn=FifastbLive
+赛事咪咕播27,http://aiony.top:35455/itv/3000000010000011297.m3u8?cdn=FifastbLive
+赛事咪咕播28,http://aiony.top:35455/itv/3000000010000011518.m3u8?cdn=FifastbLive
+赛事咪咕播29,http://aiony.top:35455/itv/3000000010000011763.m3u8?cdn=FifastbLive
+赛事咪咕播30,http://aiony.top:35455/itv/3000000010000011873.m3u8?cdn=FifastbLive
+赛事咪咕播31,http://aiony.top:35455/itv/3000000010000012398.m3u8?cdn=FifastbLive
+赛事咪咕播32,http://aiony.top:35455/itv/3000000010000012450.m3u8?cdn=FifastbLive
+赛事咪咕播33,http://aiony.top:35455/itv/3000000010000012558.m3u8?cdn=FifastbLive
+赛事咪咕播34,http://aiony.top:35455/itv/3000000010000012616.m3u8?cdn=FifastbLive
+赛事咪咕播35,http://aiony.top:35455/itv/3000000010000015470.m3u8?cdn=FifastbLive
+赛事咪咕播36,http://aiony.top:35455/itv/3000000010000015560.m3u8?cdn=FifastbLive
+赛事咪咕播37,http://aiony.top:35455/itv/3000000010000017389.m3u8?cdn=FifastbLive
+赛事咪咕播38,http://aiony.top:35455/itv/3000000010000017678.m3u8?cdn=FifastbLive
+赛事咪咕播39,http://aiony.top:35455/itv/3000000010000017997.m3u8?cdn=FifastbLive
+赛事咪咕播40,http://aiony.top:35455/itv/3000000010000019380.m3u8?cdn=FifastbLive
+赛事咪咕播41,http://aiony.top:35455/itv/3000000010000019839.m3u8?cdn=FifastbLive
+赛事咪咕播42,http://aiony.top:35455/itv/3000000010000020168.m3u8?cdn=FifastbLive
+赛事咪咕播43,http://aiony.top:35455/itv/3000000010000021904.m3u8?cdn=FifastbLive
+赛事咪咕播44,http://aiony.top:35455/itv/3000000010000023434.m3u8?cdn=FifastbLive
+赛事咪咕播45,http://aiony.top:35455/itv/3000000010000024205.m3u8?cdn=FifastbLive
+赛事咪咕播46,http://aiony.top:35455/itv/3000000010000024691.m3u8?cdn=FifastbLive
+赛事咪咕播47,http://aiony.top:35455/itv/3000000010000025380.m3u8?cdn=FifastbLive
+赛事咪咕播48,http://aiony.top:35455/itv/3000000010000025943.m3u8?cdn=FifastbLive
+赛事咪咕播49,http://aiony.top:35455/itv/3000000010000027318.m3u8?cdn=FifastbLive
+赛事咪咕播50,http://aiony.top:35455/itv/3000000010000027638.m3u8?cdn=FifastbLive
+赛事咪咕播51,http://aiony.top:35455/itv/3000000010000027691.m3u8?cdn=FifastbLive
+赛事咪咕播52,http://aiony.top:35455/itv/3000000010000031669.m3u8?cdn=FifastbLive
+赛事咪咕播53,http://aiony.top:35455/itv/3000000010000032106.m3u8?cdn=FifastbLive
+赛事咪咕壹4K,http://aiony.top:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive
+赛事咪咕贰4K,http://aiony.top:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive
+
+赛事睛彩竞技,http://192.95.29.187:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
+赛事睛彩竞技,http://192.95.29.187:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive
+赛事睛彩篮球,http://192.95.29.187:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
+赛事睛彩篮球,http://192.95.29.187:35455/itv/3000000020000011531.m3u8?cdn=FifastbLive
+赛事咪咕播01,http://192.95.29.187:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
+赛事咪咕播02,http://192.95.29.187:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
+赛事咪咕播03,http://192.95.29.187:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive
+赛事咪咕播04,http://192.95.29.187:35455/itv/3000000001000008001.m3u8?cdn=FifastbLive
+赛事咪咕播05,http://192.95.29.187:35455/itv/3000000001000008176.m3u8?cdn=FifastbLive
+赛事咪咕播06,http://192.95.29.187:35455/itv/3000000001000008379.m3u8?cdn=FifastbLive
+赛事咪咕播07,http://192.95.29.187:35455/itv/3000000001000010129.m3u8?cdn=FifastbLive
+赛事咪咕播08,http://192.95.29.187:35455/itv/3000000001000010948.m3u8?cdn=FifastbLive
+赛事咪咕播09,http://192.95.29.187:35455/itv/3000000001000026778.m3u8?cdn=FifastbLive
+赛事咪咕播10,http://192.95.29.187:35455/itv/3000000001000028638.m3u8?cdn=FifastbLive
+赛事咪咕播11,http://192.95.29.187:35455/itv/3000000001000031494.m3u8?cdn=FifastbLive
+赛事咪咕播12,http://192.95.29.187:35455/itv/3000000010000000097.m3u8?cdn=FifastbLive
+赛事咪咕播13,http://192.95.29.187:35455/itv/3000000010000002019.m3u8?cdn=FifastbLive
+赛事咪咕播14,http://192.95.29.187:35455/itv/3000000010000002032.m3u8?cdn=FifastbLive
+赛事咪咕播15,http://192.95.29.187:35455/itv/3000000010000002809.m3u8?cdn=FifastbLive
+赛事咪咕播16,http://192.95.29.187:35455/itv/3000000010000003915.m3u8?cdn=FifastbLive
+赛事咪咕播17,http://192.95.29.187:35455/itv/3000000010000004193.m3u8?cdn=FifastbLive
+赛事咪咕播18,http://192.95.29.187:35455/itv/3000000010000004464.m3u8?cdn=FifastbLive
+赛事咪咕播19,http://192.95.29.187:35455/itv/3000000010000005837.m3u8?cdn=FifastbLive
+赛事咪咕播20,http://192.95.29.187:35455/itv/3000000010000006077.m3u8?cdn=FifastbLive
+赛事咪咕播21,http://192.95.29.187:35455/itv/3000000010000006658.m3u8?cdn=FifastbLive
+赛事咪咕播22,http://192.95.29.187:35455/itv/3000000010000006944.m3u8?cdn=FifastbLive
+赛事咪咕播23,http://192.95.29.187:35455/itv/3000000010000007692.m3u8?cdn=FifastbLive
+赛事咪咕播24,http://192.95.29.187:35455/itv/3000000010000009788.m3u8?cdn=FifastbLive
+赛事咪咕播25,http://192.95.29.187:35455/itv/3000000010000010833.m3u8?cdn=FifastbLive
+赛事咪咕播26,http://192.95.29.187:35455/itv/3000000010000011112.m3u8?cdn=FifastbLive
+赛事咪咕播27,http://192.95.29.187:35455/itv/3000000010000011297.m3u8?cdn=FifastbLive
+赛事咪咕播28,http://192.95.29.187:35455/itv/3000000010000011518.m3u8?cdn=FifastbLive
+赛事咪咕播29,http://192.95.29.187:35455/itv/3000000010000011763.m3u8?cdn=FifastbLive
+赛事咪咕播30,http://192.95.29.187:35455/itv/3000000010000011873.m3u8?cdn=FifastbLive
+赛事咪咕播31,http://192.95.29.187:35455/itv/3000000010000012398.m3u8?cdn=FifastbLive
+赛事咪咕播32,http://192.95.29.187:35455/itv/3000000010000012450.m3u8?cdn=FifastbLive
+赛事咪咕播33,http://192.95.29.187:35455/itv/3000000010000012558.m3u8?cdn=FifastbLive
+赛事咪咕播34,http://192.95.29.187:35455/itv/3000000010000012616.m3u8?cdn=FifastbLive
+赛事咪咕播35,http://192.95.29.187:35455/itv/3000000010000015470.m3u8?cdn=FifastbLive
+赛事咪咕播36,http://192.95.29.187:35455/itv/3000000010000015560.m3u8?cdn=FifastbLive
+赛事咪咕播37,http://192.95.29.187:35455/itv/3000000010000017389.m3u8?cdn=FifastbLive
+赛事咪咕播38,http://192.95.29.187:35455/itv/3000000010000017678.m3u8?cdn=FifastbLive
+赛事咪咕播39,http://192.95.29.187:35455/itv/3000000010000017997.m3u8?cdn=FifastbLive
+赛事咪咕播40,http://192.95.29.187:35455/itv/3000000010000019380.m3u8?cdn=FifastbLive
+赛事咪咕播41,http://192.95.29.187:35455/itv/3000000010000019839.m3u8?cdn=FifastbLive
+赛事咪咕播42,http://192.95.29.187:35455/itv/3000000010000020168.m3u8?cdn=FifastbLive
+赛事咪咕播43,http://192.95.29.187:35455/itv/3000000010000021904.m3u8?cdn=FifastbLive
+赛事咪咕播44,http://192.95.29.187:35455/itv/3000000010000023434.m3u8?cdn=FifastbLive
+赛事咪咕播45,http://192.95.29.187:35455/itv/3000000010000024205.m3u8?cdn=FifastbLive
+赛事咪咕播46,http://192.95.29.187:35455/itv/3000000010000024691.m3u8?cdn=FifastbLive
+赛事咪咕播47,http://192.95.29.187:35455/itv/3000000010000025380.m3u8?cdn=FifastbLive
+赛事咪咕播48,http://192.95.29.187:35455/itv/3000000010000025943.m3u8?cdn=FifastbLive
+赛事咪咕播49,http://192.95.29.187:35455/itv/3000000010000027318.m3u8?cdn=FifastbLive
+赛事咪咕播50,http://192.95.29.187:35455/itv/3000000010000027638.m3u8?cdn=FifastbLive
+赛事咪咕播51,http://192.95.29.187:35455/itv/3000000010000027691.m3u8?cdn=FifastbLive
+赛事咪咕播52,http://192.95.29.187:35455/itv/3000000010000031669.m3u8?cdn=FifastbLive
+赛事咪咕播53,http://192.95.29.187:35455/itv/3000000010000032106.m3u8?cdn=FifastbLive
+赛事咪咕壹4K,http://192.95.29.187:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive
+赛事咪咕贰4K,http://192.95.29.187:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive
+
+浙江频道,#genre#
+浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+
+浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+
+浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+
+浙江数码时代,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+
+浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+
+浙江经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+
+浙江钱江频道,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+
+
