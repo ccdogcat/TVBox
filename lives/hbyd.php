@@ -585,3 +585,302 @@ NOW新闻,http://bxtv.3a.ink/api.php?id=now
 广东体育,http://bxtv.3a.ink/api.php?id=gdty
 广东珠江,http://bxtv.3a.ink/api.php?id=gdzj
 中天新聞台,http://bxtv.3a.ink/api.php?id=ztxw
+
+TLTV,#genre#
+
+
+
+翡翠台,http://t.061899.xyz/tl/168.php?id=fct
+无线新闻台,http://t.061899.xyz/tl/168.php?id=wxxwt
+明珠台,http://t.061899.xyz/tl/168.php?id=zzt
+TVB Plus,http://t.061899.xyz/tl/168.php?id=2j
+TVB千禧经典台,http://t.061899.xyz/tl/168.php?id=tvbqxjd
+爆谷台,http://j.s.bkpcp.top/js/nowbgt
+星影台,http://j.s.bkpcp.top/js/nowxyt
+凤凰中文,http://j.s.bkpcp.top/js/fhzw
+凤凰资讯,http://j.s.bkpcp.top/js/fhzx
+凤凰香港,http://j.s.bkpcp.top/js/fhxg
+天映经典,http://t.061899.xyz/tl/168.php?id=tyjd
+天映频道,http://t.061899.xyz/tl/168.php?id=typd
+中天新闻 HD,http://t.061899.xyz/tl/js/tw.php?id=hdztxw
+台视新闻HD,http://t.061899.xyz/tl/js/tw.php?id=hdtsxw
+中视新闻HD,http://t.061899.xyz/tl/js/tw.php?id=hdzsxw
+华视新闻HD,http://t.061899.xyz/tl/js/tw.php?id=hdhsxw
+民视HD,http://t.061899.xyz/tl/js/tw.php?id=hdms
+中视HD,http://t.061899.xyz/tl/js/tw.php?id=hdzs
+台视HD,http://t.061899.xyz/tl/js/tw.php?id=hdts
+公视HD,http://t.061899.xyz/tl/js/tw.php?id=hdgs
+华视HD,http://t.061899.xyz/tl/js/tw.php?id=hdhs
+公视2 HD,http://t.061899.xyz/tl/js/tw.php?id=2hdgs
+公视3 HD,http://t.061899.xyz/tl/js/tw.php?id=3hdgs
+民视台湾HD,http://t.061899.xyz/tl/js/tw.php?id=hdmstw
+民视第一台HD,http://t.061899.xyz/tl/js/tw.php?id=hdmsdyt
+华视教育文化HD,http://t.061899.xyz/tl/js/tw.php?id=hdhsjywh
+客家电视HD,http://t.061899.xyz/tl/js/tw.php?id=hdkjds
+原民电视HD,http://t.061899.xyz/tl/js/tw.php?id=hdymds
+台视综合,http://t.061899.xyz/tl/js/tw.php?id=tszh
+台视财经,http://t.061899.xyz/tl/js/tw.php?id=tscj
+MOMO亲子台,http://t.061899.xyz/tl/js/tw.php?id=momoqzt
+八大第一HD,http://t.061899.xyz/tl/js/tw.php?id=hdbddy
+八大综合HD,http://t.061899.xyz/tl/js/tw.php?id=hdbdzh
+三立台湾台 HD,http://t.061899.xyz/tl/js/tw.php?id=hdsltwt
+三立都会台 HD,http://t.061899.xyz/tl/js/tw.php?id=hdsldht
+东森超视HD,http://t.061899.xyz/tl/js/tw.php?id=hddscs
+Discovery HD,http://t.061899.xyz/tl/js/tw.php?id=discoveryhd
+探索科学 HD,http://t.061899.xyz/tl/js/tw.php?id=hdtskx
+中天综合 HD,http://t.061899.xyz/tl/js/tw.php?id=hdztzh
+纬来精采HD,http://t.061899.xyz/tl/js/tw.php?id=hdwljc
+居家乐活HD,http://t.061899.xyz/tl/js/tw.php?id=hdjjlh
+中天娱乐 HD,http://t.061899.xyz/tl/js/tw.php?id=hdztyl
+东森戏剧HD,http://t.061899.xyz/tl/js/tw.php?id=hddsxj
+八大戏剧HD,http://t.061899.xyz/tl/js/tw.php?id=hdbdxj
+历史频道 HD,http://t.061899.xyz/tl/js/tw.php?id=hdlspd
+三立戏剧HD,http://t.061899.xyz/tl/js/tw.php?id=hdslxj
+龙翔电影HD,http://t.061899.xyz/tl/js/tw.php?id=hdlxdy
+龙华洋片HD,http://t.061899.xyz/tl/js/tw.php?id=hdlhyp
+TLC旅游频道HD,http://t.061899.xyz/tl/js/tw.php?id=tlchdlypd
+东森新闻HD,http://t.061899.xyz/tl/js/tw.php?id=hddsxw
+民视新闻HD,http://t.061899.xyz/tl/js/tw.php?id=hdmsxw
+三立新闻 HD,http://t.061899.xyz/tl/js/tw.php?id=hdslxw
+东森财经HD,http://t.061899.xyz/tl/js/tw.php?id=hddscj
+非凡新闻HD,http://t.061899.xyz/tl/js/tw.php?id=hdffxw
+壹新闻HD,http://t.061899.xyz/tl/js/tw.php?id=hdyxw
+三立财经 HD,http://t.061899.xyz/tl/js/tw.php?id=hdslcj
+JET综合台,http://t.061899.xyz/tl/js/tw.php?id=jetzht
+华纳电影HD,http://t.061899.xyz/tl/js/tw.php?id=hdhndy
+AXN洋片 HD,http://t.061899.xyz/tl/js/tw.php?id=axnhdyp
+cinema world HD,http://t.061899.xyz/tl/js/tw.php?id=cinemaworldhd
+中视经典,http://t.061899.xyz/tl/js/tw.php?id=zsjd
+中视菁采,http://t.061899.xyz/tl/js/tw.php?id=zsjc
+美亚电影-粤语,http://t.061899.xyz/tl/js/tw.php?id=mydyyy
+美亚电影 HD,http://t.061899.xyz/tl/js/tw.php?id=hdmydy
+
+
+
+PopC,http://tl.061833.xyz/tl/popc
+无线新闻台,http://tl.061833.xyz/tl/null-11
+中国电影频道,http://tl.061833.xyz/tl/null-6
+亚洲剧台,http://tl.061833.xyz/tl/null-13
+千禧经典台,http://tl.061833.xyz/tl/null-3
+天映经典,http://tl.061833.xyz/tl/null-1
+戏曲台,http://tl.061833.xyz/tl/null-15
+明珠台,http://tl.061833.xyz/tl/null-12
+星河频道,http://tl.061833.xyz/tl/null-7
+功夫台,http://tl.061833.xyz/tl/null-17
+粤语片台,http://tl.061833.xyz/tl/null-10
+美亚电影台,http://tl.061833.xyz/tl/null-5
+翡翠台,http://tl.061833.xyz/tl/null
+华语剧台,http://tl.061833.xyz/tl/null-4
+黄金翡翠台,http://tl.061833.xyz/tl/null-2
+黄金华剧台,http://tl.061833.xyz/tl/null-9
+TVB Plus,http://tl.061833.xyz/tl/pluse
+娱乐新闻台,http://tl.061833.xyz/tl/null-14
+Animax,http://tl.061833.xyz/tl/animax
+AXN,http://tl.061833.xyz/tl/axn
+KIX,http://tl.061833.xyz/tl/kix
+Love Nature HD,http://tl.061833.xyz/tl/lovenaturehd
+myTV SUPER 18台,http://tl.061833.xyz/tl/mytvsuper18
+myTV SUPER FREE,http://tl.061833.xyz/tl/mytvsuperfree
+Nick Jr,http://tl.061833.xyz/tl/nickjr
+Nickelodeon,http://tl.061833.xyz/tl/nickelodeon
+ROCK Action,http://tl.061833.xyz/tl/rockaction
+ROCK 综艺娱乐,http://tl.061833.xyz/tl/rock
+SUPER Kids Channel,http://tl.061833.xyz/tl/superkidschannel
+ZooMoo,http://tl.061833.xyz/tl/zoomoo
+
+
+凤凰卫视中文台,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
+凤凰卫视资讯台,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
+凤凰卫视香港台,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
+TVB翡翠台,http://t.061899.xyz/tl/js/js.php?id=tvbfct
+TVB无线新闻台,http://t.061899.xyz/tl/js/js.php?id=tvbwxxwt
+TVB Plus,http://t.061899.xyz/tl/js/js.php?id=tvbplus
+TVB明珠台,http://t.061899.xyz/tl/js/js.php?id=tvbmzt
+香港有线新闻台,http://t.061899.xyz/tl/js/js.php?id=xgyxxwt
+香港有线18台,http://t.061899.xyz/tl/js/js.php?id=18xgyxt
+香港有线18台(备),http://t.061899.xyz/tl/js/js.php?id=18xgyxtb
+NOW直播台,http://t.061899.xyz/tl/js/js.php?id=nowzbt
+NOW新闻台,http://t.061899.xyz/tl/js/js.php?id=nowxwt
+NOW财经台,http://t.061899.xyz/tl/js/js.php?id=nowcjt
+ViuTV,http://t.061899.xyz/tl/js/js.php?id=viutv
+ViuTV6,http://t.061899.xyz/tl/js/js.php?id=6viutv
+HOY国际财经台,http://t.061899.xyz/tl/js/js.php?id=hoygjcjt
+HOY资讯台,http://t.061899.xyz/tl/js/js.php?id=hoyzxt
+HOY TV,http://t.061899.xyz/tl/js/js.php?id=hoytv
+港台电视31,http://t.061899.xyz/tl/js/js.php?id=31gtds
+港台电视32,http://t.061899.xyz/tl/js/js.php?id=32gtds
+中天新闻台,http://t.061899.xyz/tl/js/js.php?id=ztxwt
+东森新闻台,http://t.061899.xyz/tl/js/js.php?id=dsxwt
+东森财经新闻台,http://t.061899.xyz/tl/js/js.php?id=dscjxwt
+中视新闻台,http://t.061899.xyz/tl/js/js.php?id=zsxwt
+台视新闻台,http://t.061899.xyz/tl/js/js.php?id=tsxwt
+三立新闻台,http://t.061899.xyz/tl/js/js.php?id=slxwt
+民视新闻台,http://t.061899.xyz/tl/js/js.php?id=msxwt
+华视新闻台,http://t.061899.xyz/tl/js/js.php?id=hsxwt
+镜电视新闻台,http://t.061899.xyz/tl/js/js.php?id=jdsxwt
+寰宇新闻台,http://t.061899.xyz/tl/js/js.php?id=hyxwt
+寰宇新闻台湾台,http://t.061899.xyz/tl/js/js.php?id=hyxwtwt
+TVBS新闻台,http://t.061899.xyz/tl/js/js.php?id=tvbsxwt
+TVBS HD,http://t.061899.xyz/tl/js/js.php?id=tvbshd
+中视HD,http://t.061899.xyz/tl/js/js.php?id=hdzs
+台视HD,http://t.061899.xyz/tl/js/js.php?id=hdts
+民视HD,http://t.061899.xyz/tl/js/js.php?id=hdms
+华视HD,http://t.061899.xyz/tl/js/js.php?id=hdhs
+三立台湾台,http://t.061899.xyz/tl/js/js.php?id=sltwt
+纬来体育台,http://t.061899.xyz/tl/js/js.php?id=wltyt
+纬来日本台,http://t.061899.xyz/tl/js/js.php?id=wlrbt
+纬来育乐台,http://t.061899.xyz/tl/js/js.php?id=wlylt
+DAZN 1,http://t.061899.xyz/tl/js/js.php?id=1dazn
+DAZN 2,http://t.061899.xyz/tl/js/js.php?id=2dazn
+爱尔达体育1台,http://t.061899.xyz/tl/js/js.php?id=1aedtyt
+爱尔达体育2台,http://t.061899.xyz/tl/js/js.php?id=2aedtyt
+爱尔达体育3台,http://t.061899.xyz/tl/js/js.php?id=3aedtyt
+爱尔达体育4台,http://t.061899.xyz/tl/js/js.php?id=4aedtyt
+大爱一台,http://t.061899.xyz/tl/js/js.php?id=dayt
+大爱二台,http://t.061899.xyz/tl/js/js.php?id=daet
+HBO HD,http://t.061899.xyz/tl/js/js.php?id=hbohd
+好莱坞电影,http://t.061899.xyz/tl/js/js.php?id=hlwdy
+FOX新闻,http://t.061899.xyz/tl/js/js.php?id=foxxw
+CNN新闻,http://t.061899.xyz/tl/js/js.php?id=cnnxw
+BBC新闻,http://t.061899.xyz/tl/js/js.php?id=bbcxw
+Discovery,http://t.061899.xyz/tl/js/js.php?id=discovery
+TVBS HD,http://t.061899.xyz/tl/js/js.php?id=tvbshd1
+TVBS新闻台,http://t.061899.xyz/tl/js/js.php?id=tvbsxwt1
+中天新闻,http://t.061899.xyz/tl/js/js.php?id=ztxw
+中天亚洲台,http://t.061899.xyz/tl/js/js.php?id=ztyzt
+台视新闻,http://t.061899.xyz/tl/js/js.php?id=tsxw
+华视新闻,http://t.061899.xyz/tl/js/js.php?id=hsxw
+台视财经,http://t.061899.xyz/tl/js/js.php?id=tscj
+中视新闻,http://t.061899.xyz/tl/js/js.php?id=zsxw
+非凡新闻,http://t.061899.xyz/tl/js/js.php?id=ffxw
+镜新闻,http://t.061899.xyz/tl/js/js.php?id=jxw
+东森新闻,http://t.061899.xyz/tl/js/js.php?id=dsxw
+东森财经新闻,http://t.061899.xyz/tl/js/js.php?id=dscjxw
+半岛新闻,http://t.061899.xyz/tl/js/js.php?id=bdxw
+民视新闻台,http://t.061899.xyz/tl/js/js.php?id=msxwt1
+民视台湾台,http://t.061899.xyz/tl/js/js.php?id=mstwt
+寰宇新闻台,http://t.061899.xyz/tl/js/js.php?id=hyxwt1
+寰宇新闻台湾台,http://t.061899.xyz/tl/js/js.php?id=hyxwtwt1
+寰宇财经台,http://t.061899.xyz/tl/js/js.php?id=hycjt
+台视,http://t.061899.xyz/tl/js/js.php?id=ts
+民视,http://t.061899.xyz/tl/js/js.php?id=ms
+中视,http://t.061899.xyz/tl/js/js.php?id=zs
+华视,http://t.061899.xyz/tl/js/js.php?id=hs
+影迷数位电影台,http://t.061899.xyz/tl/js/js.php?id=ymswdyt
+AMC电影台,http://t.061899.xyz/tl/js/js.php?id=amcdyt
+靖天电影台,http://t.061899.xyz/tl/js/js.php?id=jtdyt
+龙华电影,http://t.061899.xyz/tl/js/js.php?id=lhdy
+采昌影剧,http://t.061899.xyz/tl/js/js.php?id=ccyj
+民视影剧,http://t.061899.xyz/tl/js/js.php?id=msyj
+龙华经典,http://t.061899.xyz/tl/js/js.php?id=lhjd
+中视经典,http://t.061899.xyz/tl/js/js.php?id=zsjd
+台湾戏剧台,http://t.061899.xyz/tl/js/js.php?id=twxjt
+靖洋戏剧台,http://t.061899.xyz/tl/js/js.php?id=jyxjt
+靖天戏剧台,http://t.061899.xyz/tl/js/js.php?id=jtxjt
+公视戏剧,http://t.061899.xyz/tl/js/js.php?id=gsxj
+龙华戏剧,http://t.061899.xyz/tl/js/js.php?id=lhxj
+智林体育台,http://t.061899.xyz/tl/js/js.php?id=zltyt
+时尚运动X,http://t.061899.xyz/tl/js/js.php?id=xssyd
+靖天育乐台,http://t.061899.xyz/tl/js/js.php?id=jtylt
+博斯魅力,http://t.061899.xyz/tl/js/js.php?id=bsml
+博斯高球1,http://t.061899.xyz/tl/js/js.php?id=1bsgq
+博斯高球2,http://t.061899.xyz/tl/js/js.php?id=2bsgq
+博斯运动1,http://t.061899.xyz/tl/js/js.php?id=1bsyd
+博斯运动2,http://t.061899.xyz/tl/js/js.php?id=2bsyd
+博斯网球,http://t.061899.xyz/tl/js/js.php?id=bswq
+博斯无限,http://t.061899.xyz/tl/js/js.php?id=bswx
+博斯无限2,http://t.061899.xyz/tl/js/js.php?id=2bswx
+TRACE SPORTS STARS,http://t.061899.xyz/tl/js/js.php?id=tracesportsstars
+视纳华仁纪实频道,http://t.061899.xyz/tl/js/js.php?id=snhrjspd
+中视菁采,http://t.061899.xyz/tl/js/js.php?id=zsjc
+八大精彩台,http://t.061899.xyz/tl/js/js.php?id=bdjct
+八大综艺台,http://t.061899.xyz/tl/js/js.php?id=bdzyt
+TVBS精采台,http://t.061899.xyz/tl/js/js.php?id=tvbsjct
+TVBS欢乐台,http://t.061899.xyz/tl/js/js.php?id=tvbshlt
+靖天欢乐台,http://t.061899.xyz/tl/js/js.php?id=jthlt
+靖天综合台,http://t.061899.xyz/tl/js/js.php?id=jtzht
+靖天资讯台,http://t.061899.xyz/tl/js/js.php?id=jtzxt
+靖天卡通台,http://t.061899.xyz/tl/js/js.php?id=jtktt
+靖天日本台,http://t.061899.xyz/tl/js/js.php?id=jtrbt
+靖洋卡通台,http://t.061899.xyz/tl/js/js.php?id=jyktt
+靖天国际台,http://t.061899.xyz/tl/js/js.php?id=jtgjt
+靖天映画,http://t.061899.xyz/tl/js/js.php?id=jtyh
+爱尔达娱乐,http://t.061899.xyz/tl/js/js.php?id=aedyl
+龙华卡通,http://t.061899.xyz/tl/js/js.php?id=lhkt
+龙华日韩,http://t.061899.xyz/tl/js/js.php?id=lhrh
+龙华偶像,http://t.061899.xyz/tl/js/js.php?id=lhox
+民视综艺,http://t.061899.xyz/tl/js/js.php?id=mszy
+民视第一台,http://t.061899.xyz/tl/js/js.php?id=msdyt
+民视旅游,http://t.061899.xyz/tl/js/js.php?id=msly
+亚洲旅游台,http://t.061899.xyz/tl/js/js.php?id=yzlyt
+客家电视台,http://t.061899.xyz/tl/js/js.php?id=kjdst
+爱放动漫,http://t.061899.xyz/tl/js/js.php?id=afdm
+古典音乐台,http://t.061899.xyz/tl/js/js.php?id=gdyyt
+猪哥亮歌厅秀,http://t.061899.xyz/tl/js/js.php?id=zglgtx
+Smart知识台,http://t.061899.xyz/tl/js/js.php?id=smartzst
+达文西频道,http://t.061899.xyz/tl/js/js.php?id=dwxpd
+阿里郎,http://t.061899.xyz/tl/js/js.php?id=all
+生活英语台,http://t.061899.xyz/tl/js/js.php?id=shyyt
+国际财经,http://t.061899.xyz/tl/js/js.php?id=gjcj
+美国之音,http://t.061899.xyz/tl/js/js.php?id=mgzy
+好消息,http://t.061899.xyz/tl/js/js.php?id=hxx
+好消息2台,http://t.061899.xyz/tl/js/js.php?id=2hxxt
+非凡商业,http://t.061899.xyz/tl/js/js.php?id=ffsy
+国会频道1,http://t.061899.xyz/tl/js/js.php?id=1ghpd
+国会频道2,http://t.061899.xyz/tl/js/js.php?id=2ghpd
+TRACE URBAN,http://t.061899.xyz/tl/js/js.php?id=traceurban
+MEZZO LIVE,http://t.061899.xyz/tl/js/js.php?id=mezzolive
+韩国娱乐台,http://t.061899.xyz/tl/js/js.php?id=hgylt
+GinxTV,http://t.061899.xyz/tl/js/js.php?id=ginxtv
+CCTV1综合,http://t.061899.xyz/tl/tl.php?id=cctv1
+CCTV2财经,http://t.061899.xyz/tl/tl.php?id=cctv2
+CCTV3综艺,http://t.061899.xyz/tl/tl.php?id=cctv3
+CCTV4中文国际,http://t.061899.xyz/tl/tl.php?id=cctv4
+CCTV5体育,http://t.061899.xyz/tl/tl.php?id=cctv5
+CCTV5+体育赛事,http://t.061899.xyz/tl/tl.php?id=cctv5p
+CCTV6电影,http://t.061899.xyz/tl/tl.php?id=cctv6
+CCTV7国防军事,http://t.061899.xyz/tl/tl.php?id=cctv7
+CCTV8电视剧,http://t.061899.xyz/tl/tl.php?id=cctv8
+CCTV9纪录,http://t.061899.xyz/tl/tl.php?id=cctv9
+CCTV10科教,http://t.061899.xyz/tl/tl.php?id=cctv10
+CCTV11戏曲,http://t.061899.xyz/tl/tl.php?id=cctv11
+CCTV12社会与法,http://t.061899.xyz/tl/tl.php?id=cctv12
+CCTV13新闻,http://t.061899.xyz/tl/tl.php?id=cctv13
+CCTV14少儿,http://t.061899.xyz/tl/tl.php?id=cctv14
+CCTV15音乐,http://t.061899.xyz/tl/tl.php?id=cctv15
+CCTV16奥运,http://t.061899.xyz/tl/tl.php?id=cctv16
+CCTV17农业农村,http://t.061899.xyz/tl/tl.php?id=cctv17
+浙江卫视,http://t.061899.xyz/tl/tl.php?id=zjws
+广东卫视,http://t.061899.xyz/tl/tl.php?id=gdws
+江苏卫视,http://t.061899.xyz/tl/tl.php?id=jsws
+东方卫视,http://t.061899.xyz/tl/tl.php?id=dfws
+陕西卫视,http://t.061899.xyz/tl/tl.php?id=sxws
+江西卫视,http://t.061899.xyz/tl/tl.php?id=jxws
+湖北卫视,http://t.061899.xyz/tl/tl.php?id=hubws
+吉林卫视,http://t.061899.xyz/tl/tl.php?id=jlws
+青海卫视,http://t.061899.xyz/tl/tl.php?id=qhws
+河南卫视,http://t.061899.xyz/tl/tl.php?id=hnws
+东南卫视,http://t.061899.xyz/tl/tl.php?id=dnws
+大湾区卫视,http://t.061899.xyz/tl/tl.php?id=dwqws
+海南卫视,http://t.061899.xyz/tl/tl.php?id=hinws
+湖南卫视,http://t.061899.xyz/tl/tl.php?id=hunws
+北京卫视,http://t.061899.xyz/tl/tl.php?id=bjws
+天津卫视,http://t.061899.xyz/tl/tl.php?id=tjws
+重庆卫视,http://t.061899.xyz/tl/tl.php?id=cqws
+黑龙江卫视,http://t.061899.xyz/tl/tl.php?id=hljws
+吉林卫视,http://t.061899.xyz/tl/tl.php?id=jlws
+辽宁卫视,http://t.061899.xyz/tl/tl.php?id=lnws
+内蒙古卫视,http://t.061899.xyz/tl/tl.php?id=nmgws
+甘肃卫视,http://t.061899.xyz/tl/tl.php?id=gsws
+河北卫视,http://t.061899.xyz/tl/tl.php?id=hbws
+山西卫视,http://t.061899.xyz/tl/tl.php?id=sxiws
+山东卫视,http://t.061899.xyz/tl/tl.php?id=sdws
+安徽卫视,http://t.061899.xyz/tl/tl.php?id=ahws
+深圳卫视,http://t.061899.xyz/tl/tl.php?id=szws
+广西卫视,http://t.061899.xyz/tl/tl.php?id=gxws
+云南卫视,http://t.061899.xyz/tl/tl.php?id=ynws
+宁夏卫视,http://t.061899.xyz/tl/tl.php?id=nxws
+贵州卫视,http://t.061899.xyz/tl/tl.php?id=gzws
+四川卫视,http://t.061899.xyz/tl/tl.php?id=scws
+新疆卫视,http://t.061899.xyz/tl/tl.php?id=xjws
+西藏卫视,http://t.061899.xyz/tl/tl.php?id=xzws
