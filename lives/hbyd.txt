@@ -149,7 +149,7 @@ CETV4,http://111.48.246.74/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 浙江卫视4K,http://106.53.99.30/tv/api.php?id=zjws4k#https://shyd.695847.xyz/cms001/ch00000090990000001720/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
 深圳卫视4K,http://106.53.99.30/tv/api.php?id=szws4k#https://shyd.695847.xyz/cms001/ch00000090990000001521/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
 湖南卫视4K,http://106.53.99.30/tv/api.php?id=hnws4k#https://shyd.695847.xyz/cms001/ch00000090990000001710/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
-河北卫视4K,https://event.pull.hebtv.com:443/live/live101.m3u8
+河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 
 央视付费,#genre#,PB=starttime={start|yyyyMMdd'T'HHmmss'.00Z'|Asia/Shanghai}&endtime={end|yyyyMMdd'T'HHmmss'.00Z'|Asia/Shanghai}
 CHC动作电影,http://111.48.246.74/000000001000PLTV/88888888/224/3221230434/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230434/1.m3u8
@@ -1073,5 +1073,6 @@ CCTV17农业农村,http://t.061899.xyz/tl/tl.php?id=cctv17
 新疆卫视,http://t.061899.xyz/tl/tl.php?id=xjws
 
 西藏卫视,http://t.061899.xyz/tl/tl.php?id=xzws
+
 
 
