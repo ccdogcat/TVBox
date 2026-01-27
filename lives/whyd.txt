@@ -163,6 +163,8 @@ CCTV14,http://60.29.124.66:6080/hls/25/index.m3u8$天津联通酒店
 CCTV15,http://60.29.124.66:6080/hls/26/index.m3u8$天津联通酒店
 
 🐼地方卫视,#genre#
+凤凰中文,rtsp://111.48.34.138:1554/170000004112/HBGD1097583753909997568843788306
+凤凰资讯,rtsp://111.48.34.138:1554/170000004112/HBGD1097583896160083968342677179
 凤凰中文,http://ali.hlspull.yximgs.com/live/qwt_fhzw.flv
 凤凰资讯,http://ali.hlspull.yximgs.com/live/qwt_fhzx.flv
 凤凰香港,http://ali.hlspull.yximgs.com/live/qwt_fhhk.flv
@@ -1199,4 +1201,5 @@ CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 移动戏曲频道,https://tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=9607ebff0360ad5c92800b94d6efe5bc&wsTime=1746432035
 象视界,http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=55b5436a4d953c452261795e11e18fed&wsTime=1746432035
 国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f?wsSecret=c56ebfa47b3b5894059a14fb18316e90&wsTime=1746432035
+
 欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=080c05f03aa0c4ce8c00be28956cd74b&wsTime=1746432035
