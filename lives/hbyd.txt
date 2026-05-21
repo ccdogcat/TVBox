@@ -492,27 +492,27 @@ CCTV16,http://lbyjlt.vv5678.cn:8880/udp/239.77.0.165:5146
 
 
 湖北电信,#genre#
-CCTV1,http://nas.lyfkai.cn:19999/rtp/239.254.96.3:7992
 CCTV1,http://nas.lyfkai.cn:19999/rtp/239.254.96.96:8550
 CCTV1,http://www.gaochao.host:4022/rtp/239.254.96.3:7992
 CCTV1,http://www.gaochao.host:4022/rtp/239.254.96.96:8550
 CCTV1,http://zhangkx717.cn:9999/rtp/239.254.96.3:7992
 CCTV1,http://zhangkx717.cn:9999/rtp/239.254.96.96:8550
-CCTV2,http://nas.lyfkai.cn:19999/rtp/239.254.96.154:8998
+CCTV1,http://nas.lyfkai.cn:19999/rtp/239.254.96.3:7992
 CCTV2,http://nas.lyfkai.cn:19999/rtp/239.69.1.102:10250
 CCTV2,http://www.gaochao.host:4022/rtp/239.254.96.154:8998
 CCTV2,http://www.gaochao.host:4022/rtp/239.69.1.102:10250
 CCTV2,http://zhangkx717.cn:9999/rtp/239.254.96.154:8998
 CCTV2,http://zhangkx717.cn:9999/rtp/239.69.1.102:10250
+CCTV2,http://nas.lyfkai.cn:19999/rtp/239.254.96.154:8998
 CCTV3,http://nas.lyfkai.cn:19999/rtp/239.69.1.122:10370
 CCTV3,http://www.gaochao.host:4022/rtp/239.69.1.122:10370
 CCTV3,http://zhangkx717.cn:9999/rtp/239.69.1.122:10370
-CCTV4,http://nas.lyfkai.cn:19999/rtp/239.254.96.155:9004
 CCTV4,http://nas.lyfkai.cn:19999/rtp/239.69.1.138:10466
 CCTV4,http://www.gaochao.host:4022/rtp/239.254.96.155:9004
 CCTV4,http://www.gaochao.host:4022/rtp/239.69.1.138:10466
 CCTV4,http://zhangkx717.cn:9999/rtp/239.254.96.155:9004
 CCTV4,http://zhangkx717.cn:9999/rtp/239.69.1.138:10466
+CCTV4,http://nas.lyfkai.cn:19999/rtp/239.254.96.155:9004
 CCTV4欧洲,http://nas.lyfkai.cn:19999/rtp/239.69.1.231:11028
 CCTV4欧洲,http://www.gaochao.host:4022/rtp/239.69.1.231:11028
 CCTV4美洲,http://nas.lyfkai.cn:19999/rtp/239.69.1.232:11034
